@@ -1,0 +1,33 @@
+
+.button{
+  box-sizing: border-box;
+  border: none;
+  background: #009c84;
+  color: #ffffff;
+  border-radius: 2px;
+  text-align: center;
+  display: inline-block;
+  margin: 5px 2px;
+  cursor: pointer;
+}
+.button:hover{
+  background: #006f6b;
+}
+.smallButton{
+  font-size: 12px;
+  padding: 0 10px;
+  width: 100px;
+  height: 26px;
+}
+.normalButton{
+  font-size: 14px;
+  padding: 0 10px;
+  width: 150px;
+  height: 36px;
+}
+.bigButton{
+  font-size: 16px;
+  padding: 0 10px;
+  width: 150px;
+  height: 40px;
+}
